@@ -14,21 +14,21 @@ https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36.<br>
 https://kosis.kr/index/index.do<br>
 
 ## EnergyPredict References
-ConvLSTM
-Shi, Xingjian, et al. "Convolutional LSTM network: A machine learning approach for precipitation nowcasting." Advances in neural information processing systems 28 (2015).
-PredRNNv2
-Wang, Yunbo, et al. "Predrnn: A recurrent neural network for spatiotemporal predictive learning." IEEE Transactions on Pattern Analysis and Machine Intelligence 45.2 (2022): 2208-2225.
-PhyDNet
-Guen, Vincent Le, and Nicolas Thome. "Disentangling physical dynamics from unknown factors for unsupervised video prediction." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
-SimVP
-Gao, Zhangyang, et al. "Simvp: Simpler yet better video prediction." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-CBAM
-Woo, Sanghyun, et al. "Cbam: Convolutional block attention module." Proceedings of the European conference on computer vision (ECCV). 2018.
+ConvLSTM<br>
+Shi, Xingjian, et al. "Convolutional LSTM network: A machine learning approach for precipitation nowcasting." Advances in neural information processing systems 28 (2015).<br>
+PredRNNv2<br>
+Wang, Yunbo, et al. "Predrnn: A recurrent neural network for spatiotemporal predictive learning." IEEE Transactions on Pattern Analysis and Machine Intelligence 45.2 (2022): 2208-2225.<br>
+PhyDNet<br>
+Guen, Vincent Le, and Nicolas Thome. "Disentangling physical dynamics from unknown factors for unsupervised video prediction." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.<br>
+SimVP<br>
+Gao, Zhangyang, et al. "Simvp: Simpler yet better video prediction." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.<br>
+CBAM<br>
+Woo, Sanghyun, et al. "Cbam: Convolutional block attention module." Proceedings of the European conference on computer vision (ECCV). 2018.<br>
 
 ## AnomalyDetection References
-LSTM autoencoder
-Srivastava, Nitish, Elman Mansimov, and Ruslan Salakhudinov. "Unsupervised learning of video representations using lstms." International conference on machine learning. PMLR, 2015.
-GRU
-Cho, Kyunghyun, et al. "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078 (2014).
-TCN
-Bai, Shaojie, J. Zico Kolter, and Vladlen Koltun. "An empirical evaluation of generic convolutional and recurrent networks for sequence modeling." arXiv preprint arXiv:1803.01271 (2018).
+LSTM autoencoder<br>
+Srivastava, Nitish, Elman Mansimov, and Ruslan Salakhudinov. "Unsupervised learning of video representations using lstms." International conference on machine learning. PMLR, 2015.<br>
+GRU<br>
+Cho, Kyunghyun, et al. "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078 (2014).<br>
+TCN<br>
+Bai, Shaojie, J. Zico Kolter, and Vladlen Koltun. "An empirical evaluation of generic convolutional and recurrent networks for sequence modeling." arXiv preprint arXiv:1803.01271 (2018).<br>
