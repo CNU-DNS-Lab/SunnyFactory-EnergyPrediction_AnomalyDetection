@@ -2,6 +2,10 @@
 0. 전력 사용량 데이터세트 생성<br>
 1. 공간단위 에너지 사용량 예측<br>
 2. AutoEncoder 복원 에러 기반 상치 탐지<br>
+<hr>
+0. Create a energy usage dataset<br>
+1. Space-level energy usage prediction<br>
+2. AutoEncoder restoration error-based anomaly detection<br>
 
 ## MakeDataset References
 **전남대학교 바로고치미**<br>
