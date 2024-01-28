@@ -4,14 +4,14 @@
 2. AutoEncoder 복원 에러 기반 상치 탐지<br>
 
 ## MakeDataset References
-“전남대학교 바로고치미” 
-https://sisul.jnu.ac.kr/sisul/13422/subview.do.
-“공공데이터포털-한국전력거래소 광주시 일별 시간대별 전력거래량”
-https://www.data.go.kr/data/15104326/fileData.do.
-“기상자료개방포털-광주시 시간대별 온도, 습도 데이터”
-https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36.
-“국가통계포털-산업별(표준산업코드 중분류) 월별 시간대별 전력소비 계수” 
-https://kosis.kr/index/index.do
+“전남대학교 바로고치미”<br>
+https://sisul.jnu.ac.kr/sisul/13422/subview.do.<br>
+“공공데이터포털-한국전력거래소 광주시 일별 시간대별 전력거래량”<br>
+https://www.data.go.kr/data/15104326/fileData.do.<br>
+“기상자료개방포털-광주시 시간대별 온도, 습도 데이터”<br>
+https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36.<br>
+“국가통계포털-산업별(표준산업코드 중분류) 월별 시간대별 전력소비 계수”<br>
+https://kosis.kr/index/index.do<br>
 
 ## EnergyPredict References
 ConvLSTM
