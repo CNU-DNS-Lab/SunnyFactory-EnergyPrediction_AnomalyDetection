@@ -1,0 +1,14 @@
+elec
+npy time : 41.91
+png time : 69.07
+max_value : 147.0411963816698
+
+temp
+npy time : 42.22
+png time : 68.86
+max_value : 36.4
+
+humid
+npy time : 42.57
+png time : 71.10
+max_value : 56.0
